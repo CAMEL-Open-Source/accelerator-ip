@@ -3,6 +3,10 @@
 ## IP Structure
 This IP is composed of RISC-V CPU (Rocket), DNN accelerator (Gemmini). You have to connect DRAM controller and peripherals to run this IP.
 
+<div align="center">
+  <img src="figs/ip.png" alt="drawing" width="300"/>
+</div>
+
 ## How-to
 1. Create your vivado project
 2. Open IP Catalog<br/><img src="figs/1.png" alt="drawing" width="800"/>
