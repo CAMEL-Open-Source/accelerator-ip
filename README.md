@@ -18,5 +18,11 @@ This IP is composed of RISC-V CPU (Rocket), DNN accelerator (Gemmini). You have 
 
 5. Now you can use CAMEL's IP<br/><img src="figs/5.png" alt="drawing" width="800"/>
 
+## License
+
+See [LICENSE](./LICENSE) file for details about this project.
+
+See LICENSE.*Author* files for details about the repositories this project is based on.
+
 ## Acknowledgment
 This project is funded by IITP 2021-0-00524
